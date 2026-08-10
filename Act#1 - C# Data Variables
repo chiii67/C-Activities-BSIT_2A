@@ -1,0 +1,17 @@
+ 
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string name = "Ma. Cherie Ann David";
+        Console.WriteLine(name);
+        int age = 19;
+        Console.WriteLine(age);
+        double digits = 19.67;
+        Console.WriteLine(digits);
+        bool meow = true;
+        Console.WriteLine(meow);
+    }
+}
